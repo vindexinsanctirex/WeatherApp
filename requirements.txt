@@ -1,0 +1,8 @@
+requests>=2.28.0
+python-dotenv>=1.0.0
+# Optional: GUI toolkit used by `main_window.py` (not required for Tkinter UI)
+PyQt5>=5.15.6
+
+# Note: `tkinter` is part of the standard library on most platforms
+# and typically does not appear in `pip` requirements. On Debian/Ubuntu
+# install the system package `python3-tk` if you need Tk support.

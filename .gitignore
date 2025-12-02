@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+__pycache__/
+*.manifest
+*.spec
+
+# Installer logs
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Local history (IDE)
+.history/
+
+# macOS
+._*
